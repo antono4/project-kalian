@@ -1,5 +1,8 @@
 # project-kalian
 
+> **Created by Antono**
+
+
 ## Menyimpan daftar Project Kalian yang sudah disubmit di Discord
 
 Setiap minggunya akan ditampilkan kurang lebih 10 project
